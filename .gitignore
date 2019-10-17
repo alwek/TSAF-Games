@@ -1,0 +1,6 @@
+.vscode
+*.class
+/NET/bin/
+/NET/obj
+*.out
+*.o
